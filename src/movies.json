@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Avengers",
+    "autor": "Carlos Andrés",
+    "year": "2000",
+    "area": "fiction"
+  },
+  {
+    "id": "2",
+    "name": "Toy Story",
+    "autor": "Aaron Josue",
+    "year": "1999",
+    "area": "kids"
+  }
+]

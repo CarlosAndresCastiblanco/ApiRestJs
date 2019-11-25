@@ -1,0 +1,30 @@
+{
+  "name": "ApiRestJs",
+  "version": "1.0.0",
+  "description": "ApiRest develop by NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosAndresCastiblanco/ApiRestJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosAndresCastiblanco/ApiRestJs/issues"
+  },
+  "homepage": "https://github.com/CarlosAndresCastiblanco/ApiRestJs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
